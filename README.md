@@ -1,12 +1,12 @@
-# 								go-vue
+# 								go-review
 
 网页端围棋打谱工具
 
-![image-20241110173935941](/Users/swbmessi/Library/Application Support/typora-user-images/image-20241110173935941.png)
+![image-20241110173935941](./public/image-20241110173935941.png)
 
-![image-20241110173723826](/Users/swbmessi/Library/Application Support/typora-user-images/image-20241110173723826.png)
+![image-20241110173723826](./public/image-20241110173723826.png)
 
-![image-20241110173819341](/Users/swbmessi/Library/Application Support/typora-user-images/image-20241110173819341.png)
+![image-20241110173819341](./public/image-20241110173819341.png)
 
 ##  功能
 
