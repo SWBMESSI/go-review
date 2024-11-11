@@ -11,6 +11,7 @@ Web-based Go Game Recording Tool
     <img src="./public/image-20241110173723826.png" alt="image-20241110173723826" width="50%"/>
     <img src="./public/image-20241110173819341.png" alt="image-20241110173819341" width="50%"/>
 </div>
+
 ## Features
 
 - Basic Go rules ✅
